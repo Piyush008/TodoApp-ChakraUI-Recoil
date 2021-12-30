@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Piyush008.github.io/todoApp"
+  "homepage": "https://Piyush008.github.io/todoApp",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build"
