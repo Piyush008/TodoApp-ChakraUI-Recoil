@@ -1,4 +1,4 @@
-import App from "./src/App";
+import App from "../src/App";
 import ReactDOM from "react-dom";
 import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
 import { RecoilRoot } from "recoil";
