@@ -1,5 +1,5 @@
 import React from "./_snowpack/pkg/react.js";
-import App from "./src/App/index.js";
+import App from "./dist/App/index.js";
 import ReactDOM from "./_snowpack/pkg/react-dom.js";
 import {ChakraProvider, ColorModeScript} from "./_snowpack/pkg/@chakra-ui/react.js";
 import {RecoilRoot} from "./_snowpack/pkg/recoil.js";
